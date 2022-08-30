@@ -5,4 +5,10 @@
 layout: home
 ---
 
-Collaborative Communications Skills - Training, Facilitation & Coaching. Seminar Production. End-of-Life Doula-Guide
+<img src="/public/shana-avatar.JPG" style="flex:1;" />
+
+Collaborative Communications Skills - Training, Facilitation & Coaching. 
+
+Seminar Production. 
+
+End-of-Life Doula.
