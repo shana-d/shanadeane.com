@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Oh, hey there!
+Collaborative Communications Skills - Training, Facilitation & Coaching. Seminar Production. End-of-Life Doula-Guide

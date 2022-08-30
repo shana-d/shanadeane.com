@@ -15,10 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Shana Deane
 email: shanadeane77@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Consulting and coaching (:
-instagram_username: shana-d
-github_username:  shana-d
+description: Consulting and coaching
+linkedin_username: shanadeane
 # domain: shana-d.github.io
 # url: https://shana-d.github.io
 # baseurl: /shanadeane.com/
