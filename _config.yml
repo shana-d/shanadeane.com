@@ -19,9 +19,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Consulting and coaching (:
 instagram_username: shana-d
 github_username:  shana-d
-domain: shana-d.github.io
-url: https://shana-d.github.io
-baseurl: /shanadeane.com/
+# domain: shana-d.github.io
+# url: https://shana-d.github.io
+# baseurl: /shanadeane.com/
 
 # Build settings
 markdown: kramdown
