@@ -5,4 +5,10 @@
 layout: home
 ---
 
-Collaborative Communications Skills - Training, Facilitation & Coaching. Seminar Production. End-of-Life Doula.
+<img src="/public/glacier-np-pano.jpeg" style="flex:1;" />
+
+Collaborative Communications Skills - Training, Facilitation & Coaching.
+
+Seminar Production.
+
+End-of-Life Doula.
