@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: Blog
+title: Musings
 permalink: /blog/
 ---
 
-<img src="/public/glacier-np-pano.jpeg" style="flex:1;" />
+<img src="/public/nature/zan-cypress-closure-trip-6-2020.jpg" style="flex:1;" />
 
-Shana's a writer too!
+*Shana's a writer too!*

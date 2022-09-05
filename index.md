@@ -5,10 +5,6 @@
 layout: home
 ---
 
-<img src="/public/glacier-np-pano.jpeg" style="flex:1;" />
+<img src="/public/timelapse-still-1.png" style="flex:1;" />
 
-Collaborative Communications Skills - Training, Facilitation & Coaching.
-
-Seminar Production.
-
-End-of-Life Doula.
+# Collaborative Communication - Training, Facilitation & Coaching

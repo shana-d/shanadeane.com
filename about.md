@@ -8,7 +8,7 @@ permalink: /about/
 
 A student of life, beauty & spirit; fierce seeker of truth; and one with many years of deeply focused, extensive studies, travels, community living and experiments... including a Permaculture Design Certificate (PDC) from Lost Valley in 2021.
 
-For the past 15 years, Shana has been teaching and leading workshops and courses in compassionate communication and conflict resolution via the lens of Marshall Rosenberg's Nonviolent Communication model and Dominic Barter's Brazilian Restorative Circles, as well as being in private practice as a mediator, counselor, end-of-life doula, and Zegg Forum Facilitator.
+For the past 15 years, Shana has been teaching and leading workshops and courses in compassionate communication and conflict resolution via the lens of Marshall Rosenberg's Nonviolent Communication model and Dominic Barter's Brazilian Restorative Circles, as well as being in private practice as a mediator, counselor, [end-of-life doula](/dying-differently), and Zegg Forum Facilitator.
 
 From being part of NY City Occupy's team implementing communication trainings, mediations and healing circles... To the past 12 years of co-producing and facilitating Network for New Culture Summer Camps... To currently studying and training as a Provider Apprentice with the [Nonviolent Global Liberation community](https://nglcommunity.org/) (NGL) developing facilitating pathways toward a post-patriarchal world where life thrives... Shana continues to be fueled by a passionate belief in collaborative community living and loving, distributive leadership, and the unveiling of shame as a way toward living authentically, interconnectedly alive.
 
