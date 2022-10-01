@@ -6,6 +6,15 @@ permalink: /my-teachers/
 
 There are many teachers... more coming soon.
 
+<div style="margin-bottom: 30px;">
+  <video controls style="width: 220px;">
+    <source src="/public/video/teachers-blessing.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <br>
+  <span class="bold">Teachers blessing</span>
+</div>
+
 <div class="video-list">
   <div>
     <img src="/public/my teachers/2018_MikiPortrait_opt.jpeg" />

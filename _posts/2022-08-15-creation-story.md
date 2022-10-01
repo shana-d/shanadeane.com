@@ -33,6 +33,12 @@ Note the inclusion of the CSS `style` attribute on each of those images. That is
 
 and much more...
 
+<video controls style="margin-top:20px; width: 300px;">
+  <source src="/public/video/personal-purpose-LV-interview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+here's a line that fills the screen horizontally
 ---
 
 # Markdown is cool!
