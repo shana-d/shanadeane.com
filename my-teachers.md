@@ -13,6 +13,14 @@ There are many teachers... more coming soon.
     I am a practical visionary pursuing a world that works for all, exploring the application of the principles and tools of Nonviolent Communication (NVC) to social transformation
     <a href="https://mikikashtan.org/">https://mikikashtan.org/</a>
   </div>
+
+  <div>
+    <img src="\public\my teachers\laurence-cole 2014.jpg" style="width: 320px; border-radius: 50px;" />
+    <span style="font-weight:bold;">LAURENCE COLE</span><br>
+    Singing together to nourish the soul and re-enchant the world.
+    <a href="https://www.laurencecole.com/">https://laurencecole.com/</a>
+  </div>
+  
   <!-- <div>
   ...
   </div>
