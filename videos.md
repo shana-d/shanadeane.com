@@ -19,7 +19,7 @@ permalink: /videos/
       <source src="/public/video/2-Dance-of-life-togetherness.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    Dance of life/ togetherness and intimacy at your fingertips
+    40 Words Dance ~ Intimacy at your fingertips
   </div>
 
   <div>
