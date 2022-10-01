@@ -68,5 +68,22 @@ $on-laptop: 800px !default;
   color: $grey-color;
 }
 
+.video-list {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+
+  > div {
+    width: 263px;
+    margin-bottom: 50px;
+    margin-right: 20px;
+  }
+
+  video {
+    width: 263px;
+    height: 148px;
+  }
+}
+
 // Import partials.
 @import "minima/base", "minima/layout", "minima/syntax-highlighting";
