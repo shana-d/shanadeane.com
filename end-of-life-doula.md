@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /dying-differently/
+hide_from_nav: true
 ---
 
 # Dying Differently
