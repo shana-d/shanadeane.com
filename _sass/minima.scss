@@ -68,6 +68,10 @@ $on-laptop: 800px !default;
   color: $grey-color;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 .video-list {
   display: flex;
   align-items: flex-start;
@@ -77,6 +81,13 @@ $on-laptop: 800px !default;
     width: 263px;
     margin-bottom: 50px;
     margin-right: 20px;
+    line-height: 18px;
+  }
+
+  img {
+    border-radius: 30px;
+    height: 220px;
+    margin-bottom: 4px;
   }
 
   video {
