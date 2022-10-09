@@ -5,3 +5,4 @@ permalink: /working-together/
 ---
 
 ### Resource Flow and Money
+
